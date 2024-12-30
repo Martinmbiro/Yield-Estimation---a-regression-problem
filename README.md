@@ -32,6 +32,8 @@ Hello again 👋
 + On a scale of `0` to `1.0`, [`r2_score`](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html#sklearn.metrics.r2_score) of `0.93`
 + [`mean_absolute_error`](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html#sklearn.metrics.mean_absolute_error) of `11,557.52`
 
+> The saved model can be found in the `model` folder of the current repository. The dataset used for this exercise is included in the `dataset` folder.
+
 ## Reference 📚
 + Thanks to the insight gained from [`Microsoft Learn`](https://learn.microsoft.com/api/achievements/share/en-us/MartinMuriithi-6560/NZ987NAF?sharingId=C156514E494249EC), [`datacamp`](https://www.datacamp.com), and [`medium`](https://medium.com)
 + Not forgetting these gorgeous gourgeous [`emojis`](https://gist.github.com/FlyteWizard/468c0a0a6c854ed5780a32deb73d457f) 😻
